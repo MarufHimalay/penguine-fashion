@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+.logo img{
+    
+    width: 250px;
+}
+.jacket{
+    height: 85%;
+}
+.jacket img{
+    height: 55%;
+    width: 75%;
+    }
+.box{
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px  lightgray;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.card-title{
+    font-weight: 700;
+}
+.card-text{
+    color: dimgray;
+}
+h1{
+    font-weight: 700;
+}
+.price{
+    color: orange;
+}
+.btn{
+    background-color: lightsalmon;
+}
+button:hover{
+    box-shadow: 1px 1px 20px lightblue;
+}
+.web-title{
+    font-size: 60px;
+    
+}
+.nav-link{
+    color: rgb(43, 43, 121);
+    font-weight: 600;
+}
