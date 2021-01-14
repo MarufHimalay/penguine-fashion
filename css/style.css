@@ -1,16 +1,14 @@
-*{
-    margin: 0;
-}
-.logo img{
+
+.navbar-brand img{
     
     width: 250px;
 }
-.jacket{
-    height: 85%;
-}
+/* .jacket{
+    height: 600px;
+} */
 .jacket img{
-    height: 55%;
-    width: 75%;
+    height: 200px;
+    width: 150px;
     }
 .box{
     border-radius: 10px;
